@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+p{ color: hotpink;
+font-family: Palatino;
+font-size: 18px;
+line-height: 22px;
+width: 800px;
+background-color: pink;
+padding: 24px;
+text-align: center;
+align: center;
+}
+
+.paragraf_2 {color: darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok {
+	background-color: rgba(255, 100, 255, 0.5); align: center;
+	padding: 20px;
+	margin: 0px; 
+	width: 58.5%; 
+	text-align: center;
+}
+
+h1 {
+	font-family: Gotham;
+	color: crimson;
+	font-size: 38px
+	text-align: center;
+}
+
+h2 {
+	font-family: Freight Text;
+	color: deeppink;
+	font-size: 30px
+	text-align: center;
+}
+
+h3 {
+	font-family: Gotham;
+	color: deeppink;
+	font-size: 20px
+	text-align: center;
+}
+
+span {color: rgb(255, 0, 255);}
+.pozadina {
+	background-image: url("slike/1.jpg ")	
+}
+
+.drugapozadina {
+	background-color: darkgray;
+}
+
+a:link { 
+color: black;
+background-color: white;
+padding: 5px;
+line-height: 40px;
+border: 1px solid #000000;
+text-align: center;
+}
+
+a:hover { 
+background-color: darkgray;
+text-align: center;
+}
+
+img {
+	height: 200px;
+	text-align: center;
+}
+
+li {
+	
+}
